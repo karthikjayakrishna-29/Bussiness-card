@@ -1,0 +1,15 @@
+body {
+    background: black;
+}
+h1 {
+    color: white;
+    font-size : 69px;
+    font-weight : bold;
+    text-align : center;
+    margin-top : 20px;
+}
+li {
+    color: blue;
+    font-size : 20px;
+    margin: 10px 0;
+}

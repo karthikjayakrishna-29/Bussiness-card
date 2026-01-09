@@ -1,0 +1,17 @@
+.body {
+  padding: 20px;
+}
+.image {
+  width: 150px;
+}
+.card {
+  border: 2px dotted blue;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.styles {
+  border: 2px dotted red;
+  padding: 20px;
+}
